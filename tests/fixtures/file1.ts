@@ -1,0 +1,1 @@
+const greetings: string = 'hej'
