@@ -1,6 +1,6 @@
 [package]
 name = "findtext_textfile"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 description = "Search text in text file"
